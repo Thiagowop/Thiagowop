@@ -1,7 +1,6 @@
 # Olá, eu sou Thiago! 
 
-Sou apaixonado por tecnologia e programação, sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, estou adquirindo conhecimentos em AWS, Docker e Linux. Aqui está um pouco sobre mim e as tecnologias que utilizo.
-
+Sou apaixonado por tecnologia e programação, sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, estou aprimorando meus conhecimentos em AWS, Docker e Linux. Aqui está um pouco sobre mim e as tecnologias que utilizo no meu dia a dia.
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -42,14 +41,20 @@ Sou apaixonado por tecnologia e programação, sempre em busca de novos desafios
 ![Postgres](https://img.shields.io/badge/-Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ferramentas e Tecnologias
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Pentaho](https://img.shields.io/badge/-Pentaho-003B57?style=for-the-badge&logo=data&logoColor=white)
+![Bizagi](https://img.shields.io/badge/-Bizagi-000000?style=for-the-badge&logo=bizagi&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-735B6C?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+### Aprendendo
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
 
 ## 🚀 Projetos e Contribuições
 
