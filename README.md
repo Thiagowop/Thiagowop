@@ -1,8 +1,6 @@
-# Olá, eu sou Thiago! 👋
+# Olá, eu sou Thiago! 
 
 Sou um apaixonado por tecnologia e programação, sempre em busca de novos desafios e oportunidades de aprendizado. Aqui está um pouco sobre mim e as tecnologias que utilizo no meu dia a dia.
-
-## 🎥 Meu GIF
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
