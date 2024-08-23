@@ -31,6 +31,4 @@ Sou um apaixonado por tecnologia e programação, sempre em busca de novos desaf
 
 Sinta-se à vontade para explorar meus repositórios e contribuições. Estou sempre aberto a novas colaborações e desafios!
 
-## 📩 Contato
-
 ![Contato](https://camo.githubusercontent.com/f2154000cecf22e501786e86cd782ebcd171447330238afcadeff7d36edfe6be/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303032423632266865696768743d3132302673656374696f6e3d666f6f746572)
