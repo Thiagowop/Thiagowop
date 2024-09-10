@@ -59,5 +59,4 @@ Sou apaixonado por tecnologia e programação, sempre em busca de novos desafios
 ## 🚀 Projetos e Contribuições
 
 Sinta-se à vontade para explorar meus repositórios e contribuições. Estou sempre aberto a novas colaborações e desafios!
-\
 
